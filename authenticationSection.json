@@ -1,5 +1,5 @@
 {
-  "type": "basic",
+  "type": "new",
   "authCodeText": null,
   "userName": "****",
   "password": "****",
@@ -13,9 +13,14 @@
   "scope": null,
   "customAccountFields": [
     {
-      "label": null,
-      "value": null,
-      "type": null
+      "label": "password",
+      "value": "****",
+      "type": "password"
+    },
+    {
+      "label": "text",
+      "type": "text",
+      "value": "text11"
     }
   ],
   "additionalParameters": null,
