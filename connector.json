@@ -4,14 +4,18 @@
   "connectorType": "datagrid",
   "type": "basic",
   "authCodeText": null,
-  "userName": "test",
+  "userName": "testt",
   "password": "testpass",
-  "apiKey": null,
-  "clientKey": null,
-  "clientSecret": null,
+  "apiKey": "",
+  "clientKey": "",
+  "clientSecret": "",
   "userId": null,
   "customAccountFields": [
-    {}
+    {
+      "label": null,
+      "value": null,
+      "type": null
+    }
   ],
   "domoClientId": null,
   "domoClientSecret": null,
